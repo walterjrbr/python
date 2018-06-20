@@ -1,6 +1,6 @@
 arquivo = open("/home/walter/log.txt","r")
 pesquisa = raw_input("Digite o termo procurado: ")
-#teste print ipesquisa="teste5555555555555555"
+#teste print ipesquisa="teste55555555555555"
 print (pesquisa)
 teste
 #for i in arquivo.readlines():
